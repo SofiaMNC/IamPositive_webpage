@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : 100+ positive affirmations in 6 categories
     description                           : Joy, Love, Self Esteem, Success, Health - we've got you covered!  
-    fontawesome_icon_name                 : fa-book
+    fontawesome_icon_name                 : book
     
   - title                                 : Make it your own
     description                           : Edit, delete, add your own, save your favorites... This is your app.
-    fontawesome_icon_name                 : fa-heart-o
+    fontawesome_icon_name                 : heart-o
 
   - title                                 : Timely Notifications
     description                           : Let the app remind you your affirmation throughout the day to get the full effect.
-    fontawesome_icon_name                 : fa-bell-o
+    fontawesome_icon_name                 : bell-o
 
   - title                                 : Share your affirmations 
     description                           : Send your favorite affirmations to your friends with beautiful imagery.
@@ -53,15 +53,15 @@ features                                  :
 
   - title                                 : Total Privacy
     description                           : Your data is entirely your own. 0 data treated, 0 data collected. Any modification you make is saved locally on your device exclusively.
-    fontawesome_icon_name                 : fa-eye-slash
+    fontawesome_icon_name                 : eye-slash
   
   - title                                 : No user account
     description                           : No filling out your email, your full name, the age of your grandma... Just download the app, launch it, you're ready to go!
-    fontawesome_icon_name                 : fa-magic
+    fontawesome_icon_name                 : magic
 
   - title                                 : No internet needed
     description                           : Use the app wherever you are, no data plan or signal needed! On a trip, on a desert island... you're set.
-    fontawesome_icon_name                 : fa-mobile
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Available in French and English (US)
     description                           : And more languages to come!
@@ -73,7 +73,7 @@ features                                  :
 
   - title                                 : Dark Mode Support
     description                           : Your app matches your esthetic!
-    fontawesome_icon_name                 : fa-adjust
+    fontawesome_icon_name                 : adjust
 
 
 # Theme Settings
