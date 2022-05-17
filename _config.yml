@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : No user account
     description                           : No filling out your email, your full name, the age of your grandma... Just download the app, launch it, you're ready to go!
-    fontawesome_icon_name                 : flash
+    fontawesome_icon_name                 : flag-checkered
 
   - title                                 : No internet needed
     description                           : Use the app wherever you are, no data plan or signal needed! On a trip, on a desert island... you're set.
@@ -83,13 +83,13 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#55bcef"
-cover_overlay_transparency                : 0.0
+cover_overlay_transparency                : 0.2
 
 device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#2EB5EA"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
