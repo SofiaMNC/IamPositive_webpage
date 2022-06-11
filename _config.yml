@@ -49,7 +49,7 @@ features                                  :
     
   - title                                 : Positive Widgets
     description                           : Pin your daily affirmation to your home screen for a beautiful visual reminder to stay positive.
-    fontawesome_icon_name                 : pushpin
+    fontawesome_icon_name                 : thumbtack
 
   - title                                 : Share your affirmations 
     description                           : Send your favorite affirmations to your friends with beautiful imagery.
