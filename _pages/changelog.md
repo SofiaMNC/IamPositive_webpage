@@ -9,12 +9,12 @@ We're always striving to improve our app!
 
 <br>
 
+## **⭐️ Version 1.1.0**
 ### `Tiny-Cake🧁 Release`
-# **Version 1.1.0**
 Add widgets! Your current affirmation now on your Home Screen 💟 All sizes supported 🤩
 
+## **⭐️ Version 1.0**
 ### `Initial Release`
-# **Version 1.0**
 - 100+ positive affirmations in 6 categories
 - Make it your own: edit, delete, add your own, save your favorites... This is your app.
 - Timely Notifications: let the app remind you your affirmation throughout the day to get the full effect.
