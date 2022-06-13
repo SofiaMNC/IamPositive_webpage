@@ -11,7 +11,7 @@ We're always striving to improve our app!
 
 ## **⭐️ Version 1.1.0**
 ### `tiny-cake🧁`
-Add widgets! Your current affirmation now on your Home Screen 💟 All sizes supported 🤩
+Add widgets! Your current affirmation now on your home screen 💟 All sizes supported 🤩
 
 ## **⭐️ Version 1.0**
 ### `Initial Release`
